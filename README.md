@@ -1,8 +1,7 @@
 ## Deployment
-* WORK IN PROGRESS
+* https://linda-andersson-markdown-previewer.netlify.app/ 
 
 ## Skills used for this project
-* WORK IN PROGRESS
 * React
 * Javascript
 * CSS
