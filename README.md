@@ -8,6 +8,8 @@
 * HTML 
 * Vite
 
+## Disclaimer! Even though the test fails sometimes all the criteria is working after manual testing. Try it out for yourself :)
+
 ## Requirements
 Objective: Build an app that is functionally similar to this: https://markdown-previewer.freecodecamp.rocks/.
 
